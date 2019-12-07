@@ -1,4 +1,4 @@
-# FCCPython
+# FCC + Python for 2020!
 Python Resources for 12/7/2019 Meetup
 
 ## Why?
