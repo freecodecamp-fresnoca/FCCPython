@@ -10,9 +10,3 @@ Python Resources for 12/7/2019 Meetup
 
 ## Pair Programming
 https://www.codewars.com/?language=python
-
-
-
-TODO: More resources 
-
-
